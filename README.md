@@ -2,6 +2,8 @@
 
 The code is wrapped and released in IACL website:
 
+Setting iteration number=1 in iSMORE is equivalent to SMORE.
+
 http://iacl.ece.jhu.edu/index.php?title=ISMORE
 
 The methods are described in:
