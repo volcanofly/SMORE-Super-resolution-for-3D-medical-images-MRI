@@ -1,5 +1,9 @@
 # SMORE-and-iSMORE-self-supervised-super-resolution-for-3D-meical-images
 
+A 
+self-supervised super-resolution algorithm for 3D medical images.
+It does not require the user to provide any training data.
+
 The code is wrapped and released in IACL website:
 
 Setting iteration number=1 in iSMORE is equivalent to SMORE.
