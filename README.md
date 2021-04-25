@@ -1,4 +1,4 @@
-# SMORE and iSMORE: self-supervised super-resolution for 3D meical images
+# SMORE and iSMORE: self-supervised super-resolution for 3D medical images
 
 A 
 self-supervised super-resolution algorithm for 3D medical images.
